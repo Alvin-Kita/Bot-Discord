@@ -1,6 +1,5 @@
-﻿# Auteur: Alvin KITA
+# Auteur: Alvin KITA
 # Date initiale: 4 octobre 2022
-# Date de dernière modification
 # Version: 1.1
 # Description: d'afficher l'emploi du temps de la semaine, et de symplifier les commandes au tacos.
 # Peut servir de bonne base pour afficher des messages à la classe ou ne pas avoir à passer par le portail de la classe.
